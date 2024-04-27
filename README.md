@@ -1,7 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04C3CB&size=35&font=Fira+Code&weight=400&center=true&vCenter=true&width=1000&lines=WELCOME!;RAFA'S+CODE)](https://git.io/typing-svg)
+
 <!-- Sobre mim -->
 # Hy there, I'm Rafaella Bastos! 👋
 
-## &nbsp;About Me
 👨🏻‍💻 I'm a Student of System Analysis and Development 
 
 <!-- Status -->
@@ -19,6 +20,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="70"/> 
   <img align="center" alt="Rafa-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
