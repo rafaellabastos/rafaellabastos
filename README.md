@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04C3CB&size=35&font=Fira+Code&weight=400&center=true&vCenter=true&width=1000&lines=WELCOME!;RAFA'S+CODE)](https://git.io/typing-svg)
 
 <!-- Sobre mim -->
-# Hy there, I'm Rafaella Bastos! 👋
+# Hey there, I'm Rafaella Bastos! 👋
 
 👨🏻‍💻 I'm a Student of System Analysis and Development 
 
