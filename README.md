@@ -5,7 +5,12 @@
 
 👨🏻‍💻 I'm a Student of System Analysis and Development 
 
-
+<!-- Status -->
+<br><div align="center">
+  <a href="https://github.com/rafaellabastos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellabastos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellabastos&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ##
 <!-- Ferramentas -->
