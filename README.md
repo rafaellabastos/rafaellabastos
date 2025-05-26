@@ -3,7 +3,8 @@
 <!-- Sobre mim -->
 # Hey there, I'm Rafaella Bastos! 👋
 
-👨🏻‍💻 I'm formed in System Analysis and Development 
+👨🏻‍💻 I'm formed in System Analysis and Development
+👨🏻‍💻 I work as a Junior Systems Technician with Java and AWS
 
 <!-- Status -->
 <br><div align="center">
