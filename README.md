@@ -4,14 +4,27 @@
 # Hey there, I'm Rafaella Bastos! 👋
 
 👨🏻‍💻 I'm formed in System Analysis and Development<br>
-👨🏻‍💻 I work as a Junior Systems Technician with Java and AWS
+👨🏻‍💻 I work as a Junior Systems Technician with AI Generative.
 
 <!-- Status -->
 <br><div align="center">
   <a href="https://github.com/rafaellabastos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellabastos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellabastos&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+##
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="40" alt="AWS"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
 ##
 <div>
