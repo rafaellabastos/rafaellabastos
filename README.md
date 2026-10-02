@@ -4,7 +4,7 @@
 # Hey there, I'm Rafaella Bastos! 👋
 
 👨🏻‍💻 I'm formed in System Analysis and Development<br>
-👨🏻‍💻 I work as a Junior Systems Technician with AI Generative.
+👨🏻‍💻 I work as a Junior Systems Technician with AI Generative, Python and AWS.
 
 <!-- Status -->
 <br><div align="center">
